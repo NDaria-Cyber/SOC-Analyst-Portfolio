@@ -8,7 +8,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 
 | Skill                               | Associated project |
 | ------------------------------------| -------------------|
-| Malware Analysis      |<a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence </a>|
+| Malware Analysis      |<a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident) </a>|
 | Threat detection (C2, brute force, malware)|  Fileless malware activity    |
 | Incident investigation | Malware infection leading to account compromise|
 | Security operations | Blocked Suspicious Activity via Firewall| 
@@ -32,7 +32,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 - English : B2+ (C1 comprehension) - Philolohgy with intensive english profile
 
 ## Projects & Writeups
-- <a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence </a>
+- <a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident)</a>
 
 ## Tools
 
