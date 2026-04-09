@@ -27,6 +27,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 - Email Security & Analysis
 - Network Analysis ( outbound connections to C2 , traffic logs review)
 - Endpoint Protection & Response
+- English : B2+ (C1 comprehension) - Philolohgy with intensive english profile
 
 ## Projects & Writeups
 - coming soon
