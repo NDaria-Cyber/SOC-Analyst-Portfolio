@@ -32,6 +32,12 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 ## Projects & Writeups
 - coming soon
 
+## Tools
+
+### Network
+
+
+## Certifications
 
 
 ## Goal
