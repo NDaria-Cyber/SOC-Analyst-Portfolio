@@ -32,7 +32,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 - English : B2+ (C1 comprehension) - Philolohgy with intensive english profile
 
 ## Projects & Writeups
-- <a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence </a>|
+- <a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence </a>
 
 ## Tools
 
