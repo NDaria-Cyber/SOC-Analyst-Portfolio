@@ -10,7 +10,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 | ------------------------------------| -------------------|
 | Malware Analysis      |<a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident) </a>|
 | Threat Detection (C2, brute force, malware)|  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity/blob/main/README.md">Fileless-Malware-Activity (Real Incident)    |
-| Incident Investigation | Token hijack leading to Account Compromise|
+| Incident Investigation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise/blob/main/README.md> Token Hijack leading to Account Compromise|
 | Security Operations | Blocked Suspicious Activity via Firewall| 
 
 
@@ -30,6 +30,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 ## Projects & Writeups
 - <a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident)
 - <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity/blob/main/README.md">Fileless-Malware-Activity (Real Incident)
+- <a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise/blob/main/README.md>Token Hijack leading to Account Compromise
 
 ## Tools
 
