@@ -10,7 +10,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 | ------------------------------------| -------------------|
 | Malware Analysis      |<a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident) </a>|
 | Threat Detection (C2, brute force, malware)|  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity/blob/main/README.md">Fileless-Malware-Activity (Real Incident)    |
-| Incident Investigation | Malware Infection Leading to Account Compromise|
+| Incident Investigation | Tokens hijacking leading to Account Compromise|
 | Security Operations | Blocked Suspicious Activity via Firewall| 
 
 
