@@ -1,4 +1,4 @@
-# SOC-Analyst-Portfolio
+# SOC Analyst Portfolio
 
 ## About me
 
@@ -9,9 +9,9 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 | Skill                               | Associated project |
 | ------------------------------------| -------------------|
 | Malware Analysis      |<a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident) </a>|
-| Threat Detection |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity/blob/main/README.md">Fileless-Malware-Activity (Real Incident)    |
+| Threat Detection |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity/blob/main/README.md">Fileless Malware Activity (Real Incident)    |
 | Incident Response |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise/blob/main/README.md> Token Hijack leading to Account Compromise (Real Incident)|
-| Security Operations (Prevent/Defense) | Blocked Suspicious Activity via Firewall| 
+| Security Operations (Prevent/Defense) | Blocked Suspicious Activity via Firewall (Reconstructed Incident) | 
 
 
 
