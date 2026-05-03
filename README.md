@@ -41,15 +41,8 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 
 
 
-        
-          
-        
-          
 
-## Projects &labs whatever
-
-
-## Certifications
+## 🎓 Training & Labs
 
 
 ## Goal
