@@ -1,5 +1,6 @@
 # SOC Analyst Portfolio
 <https://github-readme-stats.vercel.app/api?username=NDaria-Cyber&show_icons=true&theme=radical>
+![GitHub Contribution Graph](https://ghchart.rshah.org/NDaria-Cyber/NDaria-Cyber)
 ## About me
 
 My interest in computers has evolved into a strong passion for cybersecurity, and I am now eager to embark on this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 (L1) Analyst. I have a profound interest in technology, understanding attack patterns and solving complex problems in real-world scenarios.
