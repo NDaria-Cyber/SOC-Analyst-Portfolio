@@ -27,12 +27,15 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
     - C2 Traffic Identification, PCAP Analysis, Outbound Connection Correlation, Firewall Rule Evaluation
 - **Threat Intelligence & Frameworks**
     - MITRE ATT&CK Mapping, Threat Reporting (AbuseIPDB), IOC Extraction, Kill Chain Analysis
-## Projects & Writeups
 
 
-## Tools
 
-### Network
+## Tools & Platforms
+ | **Category**   |   **Tools**|
+ | -------------- | ---------- |
+ | **SIEM & Logging** |  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> Event Viewer
+
+## Projects &labs whatever
 
 
 ## Certifications
