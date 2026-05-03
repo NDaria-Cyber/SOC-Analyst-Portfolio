@@ -33,7 +33,18 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 ## Tools & Platforms
  | **Category**   |   **Tools**|
  | -------------- | ---------- |
- | **SIEM & Logging** |  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> Event Viewer
+ | **SIEM & Logging** |  <img src=https://cdn.simpleicons.org/splunk/00adee> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/782ecf01-3f5d-4804-866d-fc0a2d3431ee"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/be8c6fd5-f3c6-4920-8e3b-f832ffbe6a22">
+ | **Network Analysis** | <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a3263792-f298-4e85-bb7e-e8489b8263a1"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/85cacadd-d459-4ef6-923a-21a428b0b306"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ddff9c1a-e47e-492f-9c39-fb208225d7b0">
+ | **Forensics** | <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0efbb954-587c-4c83-bca0-414e323ea219"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5d06a291-e190-4dfb-8122-79a01b8c8a6a"> 
+ | **Threat Intel** | <img width="70" height="40" alt="image" src="https://github.com/user-attachments/assets/fdd7017c-33de-4540-84e4-6de6f831f41d"> <img width="70" height="40" alt="image" src="https://github.com/user-attachments/assets/8ae32bc8-0595-4407-a6c5-cff40c336ae7" />
+
+
+
+
+        
+          
+        
+          
 
 ## Projects &labs whatever
 
