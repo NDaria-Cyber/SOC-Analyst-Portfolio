@@ -1,10 +1,21 @@
-# SOC Analyst Portfolio
-<https://github-readme-stats.vercel.app/api?username=NDaria-Cyber&show_icons=true&theme=radical>
+# 🙌 Hello, I am D.
+ - Aspiring L1 SOC Analyst |  , Romania
+ - **Age** : 17 |  **Status**: Self-Taught & Portfolio Ready
+
+**🗺Location** : at the end of the earth
+
+📬**Email** : idc
+
+📎**Linkedin** : ff
+
+📌**Github** : ff
+
+# 📝SOC Analyst Portfolio
 ![GitHub Contribution Graph](https://ghchart.rshah.org/NDaria-Cyber/NDaria-Cyber)
-## About me
 
-My interest in computers has evolved into a strong passion for cybersecurity, and I am now eager to embark on this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 (L1) Analyst. I have a profound interest in technology, understanding attack patterns and solving complex problems in real-world scenarios.
+## 🖼 About me
 
+I am a 17-year-old aspiring L1 SOC Analyst. My journey had  started 2 months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
 ## Core skills
 
 | Skill                               | Associated project |
@@ -19,12 +30,15 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 ## Technical Skills
 - **Incident Response & Threat Hunting**
     - Malware Triage, Token Hijacking & Account Compromise(Raccoon Stealer), Fileless Malware Analysis(Powershell IEX/IRM, Task Scheduler), Remediation Strategies.
+      
 - **Forensic Analysis & OS Internals**
     - Windows : Event Log Analysis, Registry Forensics, Process Tree Analysis, Sandbox Evasion Detection
     - Linux : CLI Navigation, Log Analysis, File Permission Auditing
     - Manual Decoding : Hexadecimal IP decoding, Base64, Obfuscated String Analysis
+      
 - **Network Security & Protocol Analysis**
     - C2 Traffic Identification, PCAP Analysis, Outbound Connection Correlation, Firewall Rule Evaluation
+      
 - **Threat Intelligence & Frameworks**
     - MITRE ATT&CK Mapping, Threat Reporting (AbuseIPDB), IOC Extraction, Kill Chain Analysis
 
@@ -43,6 +57,7 @@ My interest in computers has evolved into a strong passion for cybersecurity, an
 
 
 ## 🎓 Training & Labs
+
 
 
 ## Goal
