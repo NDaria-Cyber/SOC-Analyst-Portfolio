@@ -4,7 +4,7 @@
 
 📬**Email** : negoescu.daria.cyber@gmail.com
 
-📎**Linkedin** : <a href=https://www.linkedin.com/in/negoescu-daria-%C8%99tefania-5b6793409/>Linkedin Profile
+📎**Linkedin** : <a href=https://www.linkedin.com/in/negoescu-daria-%C8%99tefania-5b6793409/>LinkedIn Profile
 
 📌**Github** : <a href=https://github.com/NDaria-Cyber> Github Profile
 
