@@ -56,6 +56,8 @@ I am a 17-year-old aspiring L1 SOC Analyst. My journey had  started 2 months ago
 
 
 ## 🎓 Training & Labs
+- TryHackMe SOC L1 (In Progress)
+- Main SOC Project ( Currently working at it).
 
 
 
