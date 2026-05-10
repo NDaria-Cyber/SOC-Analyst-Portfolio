@@ -1,14 +1,12 @@
-# 🙌 Hello, I am D.
- - Aspiring L1 SOC Analyst |  , Romania
+# 🙌 Hello, I am Daria.
+ - Aspiring L1 SOC Analyst |  Onești, Romania | Open to Remote Work
  - **Age** : 17 |  **Status**: Self-Taught & Portfolio Ready
 
-**🗺Location** : at the end of the earth
+📬**Email** : negoescu.daria.cyber@gmail.com
 
-📬**Email** : idc
+📎**Linkedin** : <a href="https://www.linkedin.com/in/negoescu-daria-%C8%99tefania-5b6793409/">
 
-📎**Linkedin** : ff
-
-📌**Github** : ff
+📌**Github** : <a href=https://github.com/NDaria-Cyber>
 
 # 📝SOC Analyst Portfolio
 ![GitHub Contribution Graph](https://ghchart.rshah.org/NDaria-Cyber/NDaria-Cyber)
