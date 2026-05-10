@@ -4,9 +4,9 @@
 
 📬**Email** : negoescu.daria.cyber@gmail.com
 
-📎**Linkedin** : <a href="https://www.linkedin.com/in/negoescu-daria-%C8%99tefania-5b6793409/">
+📎**Linkedin** : <a href=https://www.linkedin.com/in/negoescu-daria-%C8%99tefania-5b6793409/>Linkedin Profile
 
-📌**Github** : <a href=https://github.com/NDaria-Cyber>
+📌**Github** : <a href=https://github.com/NDaria-Cyber> Github Profile
 
 # 📝SOC Analyst Portfolio
 ![GitHub Contribution Graph](https://ghchart.rshah.org/NDaria-Cyber/NDaria-Cyber)
