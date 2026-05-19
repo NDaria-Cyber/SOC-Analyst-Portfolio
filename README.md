@@ -13,7 +13,7 @@
 
 ## 🖼 About me
 
-I am a 17-year-old aspiring L1 SOC Analyst. My journey had  started 2 months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
+I am a 17-year-old aspiring L1 SOC Analyst. My journey had  started 3 months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
 ## Core skills
 
 | Skill                               | Associated project |
