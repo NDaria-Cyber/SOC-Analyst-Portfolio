@@ -1,5 +1,5 @@
 # 🙌 Hello, I am Daria.
- - Aspiring L1 SOC Analyst |  Onești, Romania | Open to Remote Work
+ - Cybersecurity L1 SOC Analyst |  Onești, Romania | Open to Remote Work
  - **Age** : 17 |  **Status**: Self-Taught & Portfolio Ready
 
 📬**Email** : negoescu.daria.cyber@gmail.com
