@@ -24,7 +24,15 @@ I am a 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 3 month
 | Security Operations & Hardening|<a href=https://github.com/NDaria-Cyber/Blocked-Suspicious-Outbound-Activity-via-Firewall-Real-Reconstructed-Incident-> Blocked Suspicious Activity via Firewall (Reconstructed Incident) | 
 
 # Main SOC Project
-- <a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell.
+**Skills**
+
+ - Windows Event Analysis
+ -  Sysmon
+ -  PowerShell Scripting
+ -  MITRE ATT&CK
+ -  Threat Hunting
+   
+  **<a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell.**
 - This project features fileless malware that often fails to be detected by traditional security tools, such as Windows Defender. By using customized PowerShell commands that monitored and detected real-time fileless attacks (Macro Attack, PowerShell & LOLBin Attacks), I was able to detect and correlate the alerts from Sysmon Event Viewer with the attack and time. Therefore, I prevented further damage to the user.
 
 
