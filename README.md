@@ -57,7 +57,7 @@ I am a 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 3 month
 
 ## 🎓 Training & Labs
 - TryHackMe SOC L1 (In Progress)
-- Main SOC Project ( Currently working on it).
+- Main SOC Project -<a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell.
 
 
 
