@@ -23,7 +23,7 @@ I am a 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 3 month
 | Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise/blob/main/README.md> Token Hijack leading to Account Compromise (Real Incident)|
 | Security Operations & Hardening|<a href=https://github.com/NDaria-Cyber/Blocked-Suspicious-Outbound-Activity-via-Firewall-Real-Reconstructed-Incident-> Blocked Suspicious Activity via Firewall (Reconstructed Incident) | 
 
-# Main SOC Project
+# 👩‍💻  Main SOC Project
 **Skills**
 
  - Windows Event Analysis
@@ -37,7 +37,7 @@ I am a 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 3 month
 
 
 
-## Technical Skills
+## 💻 Technical Skills
 - **Incident Response & Threat Hunting**
     - Malware Triage, Token Hijacking & Account Compromise(Raccoon Stealer), Fileless Malware Analysis(Powershell IEX/IRM, Task Scheduler), Remediation Strategies.
       
@@ -54,7 +54,7 @@ I am a 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 3 month
 
 
 
-## Tools & Platforms
+## 🛠️ Tools & Platforms
  | **Category**   |   **Tools**|
  | -------------- | ---------- |
  | **SIEM & Logging** |  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e11162fa-cbe0-4672-b638-1a846849c5a0" /> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/782ecf01-3f5d-4804-866d-fc0a2d3431ee"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/be8c6fd5-f3c6-4920-8e3b-f832ffbe6a22"> |
@@ -73,7 +73,7 @@ I am a 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 3 month
 
 
 
-## Goal
+## ⚽ Goal
 To start a career as a SOC Analyst (L1 ) and continuously improve my skills through hands-on practice and real-world scenarios.
 
 
