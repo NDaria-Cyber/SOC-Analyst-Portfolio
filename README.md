@@ -18,9 +18,9 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  start
 
 | Skill                               | Associated project |
 | ------------------------------------| -------------------|
-| Malware Triage & Behaviour Analysis    |<a href="https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence/blob/main/README.md">Malware Infection with Persistence (Real incident) </a>|
-| Threat Hunting & Detection Engineering |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity/blob/main/README.md">Fileless Malware Activity (Real Incident)    |
-| Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise/blob/main/README.md> Token Hijack leading to Account Compromise (Real Incident)|
+| Malware Triage & Behaviour Analysis    |<a href=https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence>Malware Infection with Persistence (Real incident) </a>|
+| Threat Hunting & Detection Engineering |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity">Fileless Malware Activity (Real Incident)    |
+| Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise> Token Hijack leading to Account Compromise (Real Incident)|
 | Security Operations & Hardening|<a href=https://github.com/NDaria-Cyber/Blocked-Suspicious-Outbound-Activity-via-Firewall-Real-Reconstructed-Incident-> Blocked Suspicious Activity via Firewall (Reconstructed Incident) | 
 
 # 👩‍💻  Main SOC Project
