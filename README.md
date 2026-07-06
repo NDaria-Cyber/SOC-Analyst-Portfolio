@@ -13,7 +13,7 @@
 
 ## 🖼 About me
 
-I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My cybersecurity journey  started four months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure, and building a SOC home lab focused on post-compromise detection using Wazuh and Sysmon. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
+I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My cybersecurity journey had started four months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour, reporting active C2 infrastructure, and building a SOC home lab focused on post-compromise detection using Wazuh and Sysmon. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
 
 
 # 👩‍💻  Featured SOC Project
