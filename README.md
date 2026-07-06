@@ -13,18 +13,10 @@
 
 ## 🖼 About me
 
-I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 4 months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure, and building a SOC home lab focused on post-compromise detection using Wazuh and Sysmon. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
+I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My cybersecurity journey  started four months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure, and building a SOC home lab focused on post-compromise detection using Wazuh and Sysmon. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
 
-## Core skills
 
-| Skill                               | Associated project |
-| ------------------------------------| -------------------|
-| Malware Triage & Behaviour Analysis    |<a href=https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence>Malware Infection with Persistence (Real incident) </a>|
-| Threat Hunting & Detection Engineering |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity">Fileless Malware Activity (Real Incident)    |
-| Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise> Token Hijack leading to Account Compromise (Real Incident)|
-| Windows Event Analysis & PowerShell Scripting | <a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell |
-
-# 👩‍💻  Main SOC Project
+# 👩‍💻  Featured SOC Project
 **Skills**
 
 - Wazuh
@@ -37,9 +29,16 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  start
    
 <a href=https://github.com/NDaria-Cyber/SOC-Home-Lab---Attack-Chain-Detection-with-Wazuh-SIEM-and-Sysmon/>SOC Home Lab Attack Chain Detection with Wazuh SIEM and Sysmon
   
-This project features a multi attack chain detection using Sysmon telemetry and Wazuh to detect, correlate and investigate. It focuses on post-compromise investigation by using both endpoint telemetry for behavioural evidence and Wazuh for alerts.
+This project demonstrates a multi-stage Windows attack simulation using Sysmon endpoint telemetry and Wazuh SIEM. It focuses on post-compromise detection, alert correlation, and forensic investigation by combining endpoint telemetry with centralized security monitoring.
 
+## Core skills
 
+| Skill                               | Associated project |
+| ------------------------------------| -------------------|
+| Malware Triage & Behaviour Analysis    |<a href=https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence>Malware Infection with Persistence (Real incident) </a>|
+| Threat Hunting & Detection Engineering |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity">Fileless Malware Activity (Real Incident)    |
+| Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise> Token Hijack leading to Account Compromise (Real Incident)|
+| Windows Event Analysis & PowerShell Scripting | <a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell |
 
 ## 💻 Technical Skills
 - **Incident Response & Threat Hunting**
