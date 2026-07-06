@@ -17,7 +17,8 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My cybersecurity jour
 
 
 # 👩‍💻  Featured SOC Project
-**Skills**
+
+### Skills
 
 - Wazuh
 - Sysmon
