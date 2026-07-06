@@ -13,7 +13,8 @@
 
 ## 🖼 About me
 
-I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 4 months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure, and building a custom SOC home lab focused on detecting fileless malware activity through Sysmon and PowerShell telemetry. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
+I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  started 4 months ago, from learning the basics of a 'Three way-handshake' to analyzing real-time malware behaviour and reporting active C2 infrastructure, and building a SOC home lab focused on post-compromise detection using Wazuh and Sysmon. I am eager to join  a SOC team as a Tier 1 Analyst, where I can apply my hands-on experience and skills in threat hunting, incident response and forensic analysis to solve complex security challenges.
+
 ## Core skills
 
 | Skill                               | Associated project |
@@ -34,7 +35,8 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  start
 - MITRE ATT&CK & Log Analysis
 
    
-  **<a href=https://github.com/NDaria-Cyber/SOC-Home-Lab---Attack-Chain-Detection-with-Wazuh-SIEM-and-Sysmon/>SOC Home Lab Attack Chain Detection with Wazuh SIEM and Sysmon
+<a href=https://github.com/NDaria-Cyber/SOC-Home-Lab---Attack-Chain-Detection-with-Wazuh-SIEM-and-Sysmon/>SOC Home Lab Attack Chain Detection with Wazuh SIEM and Sysmon
+  
 This project features a multi attack chain detection using Sysmon telemetry and Wazuh to detect, correlate and investigate. It focuses on post-compromise investigation by using both endpoint telemetry for behavioural evidence and Wazuh for alerts.
 
 
