@@ -47,7 +47,7 @@ This project demonstrates a multi-stage Windows attack simulation using Sysmon e
       
 - **Forensic Analysis & OS Internals**
     - Windows : Event Log Analysis, Registry Forensics, Process Tree Analysis, Sandbox Evasion Detection
-    - Linux : CLI Navigation, Log Analysis, File Permission Auditing
+    - Linux : CLI Navigation, Log Analysis, File Permission Auditing, System Administration
     - Manual Decoding : Hexadecimal IP decoding, Base64, Obfuscated String Analysis
       
 - **Network Security & Protocol Analysis**
