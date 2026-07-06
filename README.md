@@ -21,19 +21,21 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My journey had  start
 | Malware Triage & Behaviour Analysis    |<a href=https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence>Malware Infection with Persistence (Real incident) </a>|
 | Threat Hunting & Detection Engineering |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity">Fileless Malware Activity (Real Incident)    |
 | Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise> Token Hijack leading to Account Compromise (Real Incident)|
-| Security Operations & Hardening|<a href=https://github.com/NDaria-Cyber/Blocked-Suspicious-Outbound-Activity-via-Firewall-Real-Reconstructed-Incident-> Blocked Suspicious Activity via Firewall (Reconstructed Incident) | 
+| Windows Event Analysis & PowerShell Scripting | <a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell |
 
 # 👩‍💻  Main SOC Project
 **Skills**
 
- - Windows Event Analysis
- -  Sysmon
- -  PowerShell Scripting
- -  MITRE ATT&CK
- -  Threat Hunting
+- Wazuh
+- Sysmon
+- Security Information and Event Management (SIEM)
+- Incident Analysis & Windows Security
+- Linux & Ubuntu
+- MITRE ATT&CK & Log Analysis
+
    
-  **<a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell.**
-- This project features fileless malware that often fails to be detected by traditional security tools, such as Windows Defender. By using customized PowerShell commands that monitored and detected real-time fileless attacks (Macro Attack, PowerShell & LOLBin Attacks), I was able to detect and correlate the alerts from Sysmon Event Viewer with the attack and time. Therefore, I prevented further damage to the user.
+  **<a href=https://github.com/NDaria-Cyber/SOC-Home-Lab---Attack-Chain-Detection-with-Wazuh-SIEM-and-Sysmon/>SOC Home Lab Attack Chain Detection with Wazuh SIEM and Sysmon
+This project features a multi attack chain detection using Sysmon telemetry and Wazuh to detect, correlate and investigate. It focuses on post-compromise investigation by using both endpoint telemetry for behavioural evidence and Wazuh for alerts.
 
 
 
