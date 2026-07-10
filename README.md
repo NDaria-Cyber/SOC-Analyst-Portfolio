@@ -39,7 +39,7 @@ This project demonstrates a multi-stage Windows attack simulation using Sysmon e
 | Malware Triage & Behaviour Analysis    |<a href=https://github.com/NDaria-Cyber/Malware-Infection-with-Persistence>Malware Infection with Persistence (Real incident) </a>|
 | Threat Hunting & Detection Engineering |  <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Activity">Fileless Malware Activity (Real Incident)    |
 | Incident Response & Remediation |<a href=https://github.com/NDaria-Cyber/Token-Hijack-leading-to-Account-Compromise> Token Hijack leading to Account Compromise (Real Incident)|
-| Windows Event Analysis & PowerShell Scripting | <a href="https://github.com/NDaria-Cyber/Main-SOC-Project/blob/main/README.md"/>Fileless Malware Detection using Sysmon & PowerShell |
+| Windows Event Analysis & PowerShell Scripting | <a href="https://github.com/NDaria-Cyber/Fileless-Malware-Detection"/>Fileless Malware Detection using Sysmon & PowerShell |
 
 ## 💻 Technical Skills
 - **Incident Response & Threat Hunting**
