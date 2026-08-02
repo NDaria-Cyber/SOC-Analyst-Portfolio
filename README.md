@@ -56,19 +56,43 @@ This project demonstrates a multi-stage Windows attack simulation using Sysmon e
      -  Remediation Strategies
      -  KQL Threat Hunting
      -  Authentication Failure Investigation,
-     -  Password Spray Detection,
-     -  Microsoft Sentinel Incident Investigation;
+     -  Password Spray Detection
+     -  Microsoft Sentinel Incident Investigation
       
 - **Forensic Analysis & OS Internals**
-    - **Windows** : Event Log Analysis, Registry Forensics, Process Tree Analysis, Sandbox Evasion Detection, Event Log Analysis, Kerberos Authentication Events, Active Directory Authentication Analysis;
-    - **Linux**: CLI Navigation, Log Analysis, File Permission Auditing, System Administration;
-    - **Manual Decoding** : Hexadecimal IP decoding, Base64, Obfuscated String Analysis;
+    - **Windows** : Event Log Analysis
+         - Registry Forensics
+         - Process Tree Analysis
+         - Sandbox Evasion Detection
+         -  Event Log Analysis
+         -   Kerberos Authentication Events
+         -   Active Directory Authentication Analysis;
+     
+           
+    - **Linux**: CLI Navigation,
+         -  Log Analysis
+         -  File Permission Auditing
+         -  System Administration;
+
+           
+    - **Manual Decoding** :
+         -  Hexadecimal IP decoding
+         -   Base64
+         -  Obfuscated String Analysis;
       
 - **Network Security & Protocol Analysis**
-    - C2 Traffic Identification, PCAP Analysis, Outbound Connection Correlation, Firewall Rule Evaluation;
+    - C2 Traffic Identification
+    -  PCAP Analysis
+    -  Outbound Connection Correlation
+    -   Firewall Rule Evaluation
       
 - **Threat Intelligence & Frameworks**
-    - MITRE ATT&CK Mapping, Threat Reporting (AbuseIPDB), IOC Extraction, Kill Chain Analysis, ATT&CK Technique Mapping, Authentication Attack Analysis;
+    - MITRE ATT&CK Mapping
+    - Threat Reporting (AbuseIPDB)
+    - IOC Extraction
+    - Kill Chain Analysis
+    - ATT&CK Technique Mapping
+    - Authentication Attack Analysis;
 
 - **Cloud Security & SIEM**
 
