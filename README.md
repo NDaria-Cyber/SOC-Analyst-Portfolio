@@ -69,13 +69,23 @@ This project demonstrates how Microsoft Sentinel, Azure Arc and KQL can be used 
      -  Authentication Failure Investigation,
      -  Password Spray Detection
      -  Microsoft Sentinel Incident Investigation
+
+
+ - **Cloud Security & SIEM**
+
+   - Microsoft Sentinel
+   - Azure Arc
+   - Azure Monitor Agent
+   - Log Analytics Workspace
+   - Data Collection Rules
+   - KQL
+   - Windows Security Event Collection
       
 - **Forensic Analysis & OS Internals**
     - **Windows** : Event Log Analysis
          - Registry Forensics
          - Process Tree Analysis
          - Sandbox Evasion Detection
-         -  Event Log Analysis
          -   Kerberos Authentication Events
          -   Active Directory Authentication Analysis;
      
@@ -105,15 +115,7 @@ This project demonstrates how Microsoft Sentinel, Azure Arc and KQL can be used 
     - ATT&CK Technique Mapping
     - Authentication Attack Analysis;
 
-- **Cloud Security & SIEM**
 
-   - Microsoft Sentinel
-   - Azure Arc
-   - Azure Monitor Agent
-   - Log Analytics Workspace
-   - Data Collection Rules
-   - KQL
-   - Windows Security Event Collection
  
  - **Active Directory & Identity Security**
 
