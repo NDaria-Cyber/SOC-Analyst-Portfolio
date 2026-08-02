@@ -17,7 +17,7 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My cybersecurity jour
 
 
 # 👩‍💻 ⭐ Featured SOC Projects ⭐
-# <a href=https://github.com/NDaria-Cyber/SOC-Home-Lab---Attack-Chain-Detection-with-Wazuh-SIEM-and-Sysmon/>SOC Home Lab Attack Chain Detection with Wazuh SIEM and Sysmon
+# <a href=https://github.com/NDaria-Cyber/SOC-Home-Lab---Attack-Chain-Detection-with-Wazuh-SIEM-and-Sysmon/> ⭐ SOC Home Lab Attack Chain Detection with Wazuh SIEM and Sysmon
 
 ### Skills
 
@@ -34,7 +34,7 @@ I am an aspiring 17-year-old cybersecurity L1 SOC Analyst. My cybersecurity jour
 This project demonstrates a multi-stage Windows attack simulation using Sysmon endpoint telemetry and Wazuh SIEM. It focuses on post-compromise detection, alert correlation, and forensic investigation by combining endpoint telemetry with centralized security monitoring.
 
 
-# <a href=https://github.com/NDaria-Cyber/Microsoft-Sentinel-Investigating-a-Password-Spray-Attack-using-KQL/>Microsoft Sentinel - Investigating a Password Spray Attack using KQL
+# <a href=https://github.com/NDaria-Cyber/Microsoft-Sentinel-Investigating-a-Password-Spray-Attack-using-KQL/> ⭐ Microsoft Sentinel - Investigating a Password Spray Attack using KQL
 
 ### Skills
 
