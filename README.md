@@ -36,7 +36,18 @@ This project demonstrates a multi-stage Windows attack simulation using Sysmon e
 
 # <a href=https://github.com/NDaria-Cyber/Microsoft-Sentinel-Investigating-a-Password-Spray-Attack-using-KQL/>Microsoft Sentinel - Investigating a Password Spray Attack using KQL
 
-### Skills 
+### Skills
+
+   - Microsoft Sentinel
+   - Azure Arc
+   - Azure Monitor Agent
+   - Log Analytics Workspace
+   - Data Collection Rules
+   - KQL
+   - Windows Security Event Collection
+
+This project demonstrates how Microsoft Sentinel, Azure Arc and KQL can be used to investigate authentication-based attacks in Active Directory environments. Password Spray attacks are commonly used against Active Directory environments because attackers attempt a single password across multiple accounts while avoiding account lockouts. 
+
 
 
 # 🔎 Detection Engineering Projects
